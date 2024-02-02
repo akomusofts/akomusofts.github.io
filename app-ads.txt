@@ -108,3 +108,7 @@ themediagrid.com, G1Q94U, RESELLER, 35d5010d7789b49d
 unity3d.com, 30043, RESELLER, 96cabb5fbdde37a7
 verve.com, 14619, RESELLER, 0c8f5958fc2d6270
 vungle.com, 5a53889945eaab512501251e, RESELLER, c107d686becd2d77
+
+
+datawrkz.com, mwpmcm630, DIRECT
+google.com, pub-8856559311549217, RESELLER, f08c47fec0942fa0
